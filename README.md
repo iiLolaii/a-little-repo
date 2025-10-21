@@ -1,2 +1,3 @@
 # a-little-repo
-Tiny Repo!
+Lola
+Just a little guy!
